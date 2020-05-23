@@ -30,7 +30,7 @@ end
 
 def self.genre_count
   gen_count = {}
-  
+  @@genres 
  end
   
 
