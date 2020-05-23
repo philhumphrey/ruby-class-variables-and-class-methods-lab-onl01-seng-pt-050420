@@ -27,8 +27,5 @@ def self.count
  def self.genres
    @@genres.uniq
 end
-
- Song.genre_count
-end
 end
 
