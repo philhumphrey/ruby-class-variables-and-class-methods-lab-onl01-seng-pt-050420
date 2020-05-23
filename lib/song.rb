@@ -29,7 +29,7 @@ def self.count
 end
 
 def self.genre_count
-  gen
+  gen_count
  end
   
 
