@@ -29,6 +29,7 @@ def self.count
 end
 
 self.genre_count
+
  end
   
 
