@@ -29,7 +29,8 @@ def self.count
 end
 
 def self.genre_count
-  gen_count
+  gen_count = {}
+  
  end
   
 
