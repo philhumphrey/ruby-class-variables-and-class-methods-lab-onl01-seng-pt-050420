@@ -28,7 +28,7 @@ def self.count
    @@genres.uniq
 end
 
-def song.genre_count
+def Song.genre_count
   gen_count = {}
   @@genres.collect 
  end
