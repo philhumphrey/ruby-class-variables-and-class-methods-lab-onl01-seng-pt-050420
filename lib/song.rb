@@ -22,7 +22,7 @@ def self.count
  
  def self.artists
    @@artists.uniq
- 
+ end
 
  end
   
